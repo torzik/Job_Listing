@@ -92,7 +92,7 @@ function bdb_list_job_by_location( $atts, $content = null ) {
     $display_by_location .= '</div>';
 
     else:
-
+ 
     	$display_by_location = sprintf( __( '<p class="job-error">Sorry, no jobs listed in %s where found.</p>' ), esc_html__( ucwords( str_replace( '-', ' ', $atts[ 'location' ] ) ) ) );
 
     endif;
