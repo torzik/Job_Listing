@@ -1,7 +1,7 @@
 # Job_Listing
 first plugin in WP including new post type, new taxonomy, shortcodes for taxonomy 
 Plugin as is contain new post type - JOB, which contain fields provided by user:
-1) job id - job name.
+1) job id - job name.</br>
 2)date listed - datepicker.
 3) application deadline - datepicker.
 4) principle duties - text area (actualy job description)
